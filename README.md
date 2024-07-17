@@ -33,7 +33,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/youtube-video-summarizer.git
+   git clone https://github.com/Arjun9271/youtube-video-summarizer.git
    cd youtube-video-summarizer
    ```
 
@@ -72,7 +72,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/your-username/youtube-video-summarizer/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/Arjun9271/youtube-video-summarizer/issues).
 
 ## 📜 License
 
@@ -85,3 +85,5 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 - [YouTube Transcript API](https://github.com/jdepoix/youtube-transcript-api)
 
 ---
+
+Made with ❤️ by Arjun9271
